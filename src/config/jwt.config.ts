@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/require-await */
 import { ConfigService } from "@nestjs/config"
 import { JwtModuleOptions } from "@nestjs/jwt"
 
